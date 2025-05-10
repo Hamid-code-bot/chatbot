@@ -1,0 +1,2 @@
+streamlit>=1.32
+litellm>=1.17.6
